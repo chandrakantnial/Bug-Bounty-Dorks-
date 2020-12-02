@@ -2,10 +2,10 @@
 A simple google dorks to find private bug bounty sites. 
 
 
-inurl /bug bounty
-inurl : / security
-inurl:security.txt
-inurl:security "reward"
+inurl /bug bounty<br />
+inurl : / security<br />
+inurl:security.txt<br />
+inurl:security "reward"<br />
 inurl : /responsible disclosure
 inurl : /responsible-disclosure/ reward
 inurl : / responsible-disclosure/ swag
